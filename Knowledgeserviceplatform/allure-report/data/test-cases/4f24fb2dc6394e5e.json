@@ -1,0 +1,119 @@
+{
+  "uid" : "4f24fb2dc6394e5e",
+  "name" : "test__001__shitizengliang[实体增量-3]",
+  "fullName" : "Test.TestCase.test_014_schedulingmanage.TestDiaoduGunali#test__001__shitizengliang",
+  "historyId" : "f04824338c80d58b5448598d362e7d92",
+  "time" : {
+    "start" : 1647922773683,
+    "stop" : 1647922778379,
+    "duration" : 4696
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "_xunit_setup_method_fixture_TestDiaoduGunali",
+    "time" : {
+      "start" : 1647922759515,
+      "stop" : 1647922773682,
+      "duration" : 14167
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "1b123956d4705a20",
+      "name" : "log",
+      "source" : "1b123956d4705a20.txt",
+      "type" : "text/plain",
+      "size" : 1091
+    }, {
+      "uid" : "5eb24bff8da2eca9",
+      "name" : "stderr",
+      "source" : "5eb24bff8da2eca9.txt",
+      "type" : "text/plain",
+      "size" : 1380
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ {
+    "name" : "_xunit_setup_method_fixture_TestDiaoduGunali::0",
+    "time" : {
+      "start" : 1647922778381,
+      "stop" : 1647922778924,
+      "duration" : 543
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "实体-增量"
+  }, {
+    "name" : "feature",
+    "value" : "调度管理-创建-实体-增量"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Test.TestCase"
+  }, {
+    "name" : "suite",
+    "value" : "test_014_schedulingmanage"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestDiaoduGunali"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-T0HOEE8"
+  }, {
+    "name" : "thread",
+    "value" : "2156-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Test.TestCase.test_014_schedulingmanage"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "renwuvalue",
+    "value" : "'实体增量'"
+  }, {
+    "name" : "status",
+    "value" : "'3'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4f24fb2dc6394e5e.json",
+  "parameterValues" : [ "'实体增量'", "'3'" ]
+}

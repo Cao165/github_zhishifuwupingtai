@@ -1,0 +1,11 @@
+shujuvalue,dizhivalue,ipvalue,shujukuvalue,username,password,status
+@,,,,,,0
+,172.168.30.7,3306,,,,1
+,172.168.30.7,3306,aiswift_dkg_test,,,2
+,172.168.30.7,3306,aiswift_dkg_test,dtjoy,,3
+,172.168.30.7.7,330655,aiswift_dkg_test,dtjoy,dtjoy#123,4
+123456789789654133654788522,172.168.30.7,3306,aiswift_dkg_test,dtjoy,dtjoy#123,5
+mysqlmysql,172.168.30.7,33065,aiswift_dkg_test,dtjoy,dtjoy#12,6
+mysqlmysql,172.168.30.7,33065,aiswift_dkg_test ,dtjoy,dtjoy#123,7
+mysqlmysql,172.168.30.7,3306,aiswift_dkg_test,dtjoy,dtjoy#123,8
+mysqlmysql,172.168.30.7,3306,aiswift_dkg_test,dtjoy,dtjoy#123,9

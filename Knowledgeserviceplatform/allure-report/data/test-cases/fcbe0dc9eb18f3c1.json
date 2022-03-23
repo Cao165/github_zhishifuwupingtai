@@ -1,0 +1,113 @@
+{
+  "uid" : "fcbe0dc9eb18f3c1",
+  "name" : "test__001__sousuo",
+  "fullName" : "Test.TestCase.test_013_mappingmanage.TestZhishiyinghsesousuo#test__001__sousuo",
+  "historyId" : "bbb7d29fb9cb347ac62d061331a7a116",
+  "time" : {
+    "start" : 1647922606963,
+    "stop" : 1647922610229,
+    "duration" : 3266
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "_xunit_setup_method_fixture_TestZhishiyinghsesousuo",
+    "time" : {
+      "start" : 1647922593024,
+      "stop" : 1647922606962,
+      "duration" : 13938
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "be6090728dc29bcb",
+      "name" : "log",
+      "source" : "be6090728dc29bcb.txt",
+      "type" : "text/plain",
+      "size" : 924
+    }, {
+      "uid" : "ea7c61c73c904946",
+      "name" : "stderr",
+      "source" : "ea7c61c73c904946.txt",
+      "type" : "text/plain",
+      "size" : 1169
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ {
+    "name" : "_xunit_setup_method_fixture_TestZhishiyinghsesousuo::0",
+    "time" : {
+      "start" : 1647922610230,
+      "stop" : 1647922610777,
+      "duration" : 547
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "搜索"
+  }, {
+    "name" : "feature",
+    "value" : "知识映射-搜索-修改-删除"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Test.TestCase"
+  }, {
+    "name" : "suite",
+    "value" : "test_013_mappingmanage"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestZhishiyinghsesousuo"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-T0HOEE8"
+  }, {
+    "name" : "thread",
+    "value" : "2156-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Test.TestCase.test_013_mappingmanage"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fcbe0dc9eb18f3c1.json",
+  "parameterValues" : [ ]
+}

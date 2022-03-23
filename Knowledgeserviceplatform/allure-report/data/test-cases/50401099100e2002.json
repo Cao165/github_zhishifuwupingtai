@@ -1,0 +1,113 @@
+{
+  "uid" : "50401099100e2002",
+  "name" : "test__003__shanchu",
+  "fullName" : "Test.TestCase.test_019_homepage.Testzhishiyingyongjiaru#test__003__shanchu",
+  "historyId" : "0429e268ce9da925576bef4248b7148d",
+  "time" : {
+    "start" : 1647923369694,
+    "stop" : 1647923374600,
+    "duration" : 4906
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "_xunit_setup_method_fixture_Testzhishiyingyongjiaru",
+    "time" : {
+      "start" : 1647923355707,
+      "stop" : 1647923369693,
+      "duration" : 13986
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "35f6b4fb712d5c4f",
+      "name" : "log",
+      "source" : "35f6b4fb712d5c4f.txt",
+      "type" : "text/plain",
+      "size" : 721
+    }, {
+      "uid" : "9636f7719a71ea05",
+      "name" : "stderr",
+      "source" : "9636f7719a71ea05.txt",
+      "type" : "text/plain",
+      "size" : 918
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ {
+    "name" : "_xunit_setup_method_fixture_Testzhishiyingyongjiaru::0",
+    "time" : {
+      "start" : 1647923374600,
+      "stop" : 1647923375127,
+      "duration" : 527
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "删除"
+  }, {
+    "name" : "feature",
+    "value" : "知识应用-从知识地图加入应用-修改-删除"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Test.TestCase"
+  }, {
+    "name" : "suite",
+    "value" : "test_019_homepage"
+  }, {
+    "name" : "subSuite",
+    "value" : "Testzhishiyingyongjiaru"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-T0HOEE8"
+  }, {
+    "name" : "thread",
+    "value" : "2156-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Test.TestCase.test_019_homepage"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "50401099100e2002.json",
+  "parameterValues" : [ ]
+}

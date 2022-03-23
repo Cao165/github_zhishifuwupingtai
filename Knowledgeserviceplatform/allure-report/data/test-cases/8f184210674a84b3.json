@@ -1,0 +1,84 @@
+{
+  "uid" : "8f184210674a84b3",
+  "name" : "test__002__chuangjian[-172.168.30.12.12-143355-aiswift_dkg_dev-SA-<YourNewStrong@Passw0rd>-4]",
+  "fullName" : "Test.TestCase.test_004_datasourcemanage.TestChuangjian2#test__002__chuangjian",
+  "historyId" : "6f076d69cef9ab59cb7a38b12e797b12",
+  "time" : {
+    "start" : 1647921837354,
+    "stop" : 1647921837354,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "statusMessage" : "Skipped: 暂时不用",
+  "statusTrace" : "('E:\\\\python-pycharm\\\\pythonProject\\\\shujufuwupingtai\\\\Test\\\\TestCase\\\\test_004_datasourcemanage.py', 14, 'Skipped: 暂时不用')",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "数据源的创建-sqlserver"
+  }, {
+    "name" : "tag",
+    "value" : "@pytest.mark.skip('暂时不用')"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Test.TestCase"
+  }, {
+    "name" : "suite",
+    "value" : "test_004_datasourcemanage"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestChuangjian2"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-T0HOEE8"
+  }, {
+    "name" : "thread",
+    "value" : "2156-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Test.TestCase.test_004_datasourcemanage"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "dizhivalue",
+    "value" : "'172.168.30.12.12'"
+  }, {
+    "name" : "ipvalue",
+    "value" : "'143355'"
+  }, {
+    "name" : "password",
+    "value" : "'<YourNewStrong@Passw0rd>'"
+  }, {
+    "name" : "shujukuvalue",
+    "value" : "'aiswift_dkg_dev'"
+  }, {
+    "name" : "shujuvalue",
+    "value" : "''"
+  }, {
+    "name" : "status",
+    "value" : "'4'"
+  }, {
+    "name" : "username",
+    "value" : "'SA'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "@pytest.mark.skip('暂时不用')" ]
+  },
+  "source" : "8f184210674a84b3.json",
+  "parameterValues" : [ "'172.168.30.12.12'", "'143355'", "'<YourNewStrong@Passw0rd>'", "'aiswift_dkg_dev'", "''", "'4'", "'SA'" ]
+}

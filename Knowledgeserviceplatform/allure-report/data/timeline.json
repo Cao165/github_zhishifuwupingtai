@@ -1,0 +1,1201 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-T0HOEE8",
+    "children" : [ {
+      "name" : "2156-MainThread",
+      "children" : [ {
+        "name" : "test__002__jiaru",
+        "uid" : "592a0ad60a98214",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647923343234,
+          "stop" : 1647923355157,
+          "duration" : 11923
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test__001__shitiquanliang2[-0]",
+        "uid" : "70cbadf45eaa6fb6",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647922810793,
+          "stop" : 1647922815749,
+          "duration" : 4956
+        },
+        "flaky" : false,
+        "parameters" : [ "''", "'0'" ]
+      }, {
+        "name" : "test__001__shitiquanliang2[@-1]",
+        "uid" : "f1936ed026e51fac",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647922829693,
+          "stop" : 1647922834645,
+          "duration" : 4952
+        },
+        "flaky" : false,
+        "parameters" : [ "'@'", "'1'" ]
+      }, {
+        "name" : "test__001__chuangjian[@--1]",
+        "uid" : "29f280749a3318e",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647922440867,
+          "stop" : 1647922448277,
+          "duration" : 7410
+        },
+        "flaky" : false,
+        "parameters" : [ "'1'", "'@'", "''" ]
+      }, {
+        "name" : "test__003__chuangjian[-172.168.30.13.13-152133-helowin-aiswift-dtjoy#123-4]",
+        "uid" : "8cc5e91aa19d25dd",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1647921837381,
+          "stop" : 1647921837381,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ "'172.168.30.13.13'", "'152133'", "'dtjoy#123'", "'helowin'", "''", "'4'", "'aiswift'" ]
+      }, {
+        "name" : "test__001__shitiquanliang2[实体全量-4]",
+        "uid" : "f9bf4e5e4258407c",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647922913934,
+          "stop" : 1647922919057,
+          "duration" : 5123
+        },
+        "flaky" : false,
+        "parameters" : [ "'实体全量'", "'4'" ]
+      }, {
+        "name" : "test__003__shanchu",
+        "uid" : "50401099100e2002",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647923369694,
+          "stop" : 1647923374600,
+          "duration" : 4906
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test__005__chuangjian[-172.168.30.13-22-/root/wenlx/template_目录.csv-root---3]",
+        "uid" : "acff01b5a738f52c",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647922176900,
+          "stop" : 1647922183713,
+          "duration" : 6813
+        },
+        "flaky" : false,
+        "parameters" : [ "'172.168.30.13'", "''", "'22'", "''", "''", "'3'", "'root'", "'/root/wenlx/template_目录.csv'" ]
+      }, {
+        "name" : "test__001__shitizengliang[实体增量-3]",
+        "uid" : "4f24fb2dc6394e5e",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647922773683,
+          "stop" : 1647922778379,
+          "duration" : 4696
+        },
+        "flaky" : false,
+        "parameters" : [ "'实体增量'", "'3'" ]
+      }, {
+        "name" : "test__002__chuangjian[-172.168.30.12-1433-aiswift_dkg_dev-SA--3]",
+        "uid" : "4c3d106e29275ccf",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1647921837351,
+          "stop" : 1647921837351,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ "'172.168.30.12'", "'1433'", "''", "'aiswift_dkg_dev'", "''", "'3'", "'SA'" ]
+      }, {
+        "name" : "test__001__chuangjian[3333333339999564545454545458742133333-office_id-2]",
+        "uid" : "6ceb6935e5677851",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647922462074,
+          "stop" : 1647922469540,
+          "duration" : 7466
+        },
+        "flaky" : false,
+        "parameters" : [ "'2'", "'3333333339999564545454545458742133333'", "'office_id'" ]
+      }, {
+        "name" : "test__003__chuangjian[-172.168.30.13-1521-helowin---2]",
+        "uid" : "a4ae4e6dbc7ce7c",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1647921837375,
+          "stop" : 1647921837375,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ "'172.168.30.13'", "'1521'", "''", "'helowin'", "''", "'2'", "''" ]
+      }, {
+        "name" : "test__002__chuangjian[sqlserver-172.168.30.12-1433-aiswift_dkg_dev -SA-<YourNewStrong@Passw0rd>-7]",
+        "uid" : "4b973f2399279ad9",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1647921837360,
+          "stop" : 1647921837360,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ "'172.168.30.12'", "'1433'", "'<YourNewStrong@Passw0rd>'", "'aiswift_dkg_dev '", "'sqlserver'", "'7'", "'SA'" ]
+      }, {
+        "name" : "test__001__chuangjian[123456789789654133654788522-172.168.30.7-3306-aiswift_dkg_test-dtjoy-dtjoy#123-5]",
+        "uid" : "9d35d6aaf1a98331",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647921708712,
+          "stop" : 1647921714091,
+          "duration" : 5379
+        },
+        "flaky" : false,
+        "parameters" : [ "'172.168.30.7'", "'3306'", "'dtjoy#123'", "'aiswift_dkg_test'", "'123456789789654133654788522'", "'5'", "'dtjoy'" ]
+      }, {
+        "name" : "test__005__chuangjian[csvcsv-172.168.30.13-22-/root/wenlx/template_目录.csv-root-admin-,-9]",
+        "uid" : "18c9961b08ae7bbe",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647922302302,
+          "stop" : 1647922309122,
+          "duration" : 6820
+        },
+        "flaky" : false,
+        "parameters" : [ "'172.168.30.13'", "','", "'22'", "'admin'", "'csvcsv'", "'9'", "'root'", "'/root/wenlx/template_目录.csv'" ]
+      }, {
+        "name" : "test__001__chuangjian[--0]",
+        "uid" : "a25a6f264410f8ae",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647922507638,
+          "stop" : 1647922517994,
+          "duration" : 10356
+        },
+        "flaky" : true,
+        "parameters" : [ "'0'", "''", "''" ]
+      }, {
+        "name" : "test__003__xiugai",
+        "uid" : "4be8bcb2f261b768",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647922968426,
+          "stop" : 1647922975573,
+          "duration" : 7147
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test__001__shitizengliang[实体增量-4]",
+        "uid" : "d368437aecea695d",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647922791683,
+          "stop" : 1647922796447,
+          "duration" : 4764
+        },
+        "flaky" : false,
+        "parameters" : [ "'实体增量'", "'4'" ]
+      }, {
+        "name" : "test__001__chuangjian[-172.168.30.7.7-330655-aiswift_dkg_test-dtjoy-dtjoy#123-4]",
+        "uid" : "b6516e5d53ed8d75",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647921688830,
+          "stop" : 1647921694457,
+          "duration" : 5627
+        },
+        "flaky" : false,
+        "parameters" : [ "'172.168.30.7.7'", "'330655'", "'dtjoy#123'", "'aiswift_dkg_test'", "''", "'4'", "'dtjoy'" ]
+      }, {
+        "name" : "test__001__chuangjian[@3djfdiajfldjid-1]",
+        "uid" : "447b52c348f09698",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647923094732,
+          "stop" : 1647923104484,
+          "duration" : 9752
+        },
+        "flaky" : false,
+        "parameters" : [ "'1'", "'@3djfdiajfldjid'" ]
+      }, {
+        "name" : "test__004__piliangshanchu",
+        "uid" : "a241f652e0e29116",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647922664363,
+          "stop" : 1647922666529,
+          "duration" : 2166
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_001_xiugai[mysqlmysql-mysqlmysql-172.168.30.7-3306-aiswift_dkg_test-dtjoy-dtjoy#123]",
+        "uid" : "814cf6b5d6a5479b",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647922397099,
+          "stop" : 1647922404155,
+          "duration" : 7056
+        },
+        "flaky" : false,
+        "parameters" : [ "'172.168.30.7'", "'3306'", "'dtjoy#123'", "'aiswift_dkg_test'", "'mysqlmysql'", "'mysqlmysql'", "'dtjoy'" ]
+      }, {
+        "name" : "test__002__chuangjian[@------0]",
+        "uid" : "6a0258444cfd255f",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1647921837345,
+          "stop" : 1647921837345,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ "''", "''", "''", "''", "'@'", "'0'", "''" ]
+      }, {
+        "name" : "test__001__chuangjian[mysqlmysql-172.168.30.7-3306-aiswift_dkg_test-dtjoy-dtjoy#123-8]",
+        "uid" : "fcda17c542304800",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "failed",
+        "time" : {
+          "start" : 1647921811913,
+          "stop" : 1647921817373,
+          "duration" : 5460
+        },
+        "flaky" : true,
+        "parameters" : [ "'172.168.30.7'", "'3306'", "'dtjoy#123'", "'aiswift_dkg_test'", "'mysqlmysql'", "'8'", "'dtjoy'" ]
+      }, {
+        "name" : "test__003__chuangjian[-172.168.30.13-1521-helowin-aiswift--3]",
+        "uid" : "e91e445be2250df",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1647921837377,
+          "stop" : 1647921837377,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ "'172.168.30.13'", "'1521'", "''", "'helowin'", "''", "'3'", "'aiswift'" ]
+      }, {
+        "name" : "test__001__chuangjian[-0]",
+        "uid" : "f62273274a3ff74",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647921537041,
+          "stop" : 1647921541297,
+          "duration" : 4256
+        },
+        "flaky" : false,
+        "parameters" : [ "'0'", "''" ]
+      }, {
+        "name" : "test__001__shitizengliang[-0]",
+        "uid" : "2b084e4daec82856",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647922717084,
+          "stop" : 1647922721869,
+          "duration" : 4785
+        },
+        "flaky" : false,
+        "parameters" : [ "''", "'0'" ]
+      }, {
+        "name" : "test__004__pilinagshanchu",
+        "uid" : "9d83bf7cc6679d48",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647922376158,
+          "stop" : 1647922383242,
+          "duration" : 7084
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test__001__chuangjian[A-B-C--1]",
+        "uid" : "914b0b855e2a997",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647923190914,
+          "stop" : 1647923201955,
+          "duration" : 11041
+        },
+        "flaky" : false,
+        "parameters" : [ "'1'", "'A'", "'B'", "'C'", "''" ]
+      }, {
+        "name" : "test__004__chuangjian[@------0]",
+        "uid" : "8cd782c6fde0b9da",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647921911332,
+          "stop" : 1647921917999,
+          "duration" : 6667
+        },
+        "flaky" : true,
+        "parameters" : [ "''", "''", "''", "'@'", "'0'", "''", "''" ]
+      }, {
+        "name" : "test__001__chuangjian[mysqlmysql-172.168.30.7-33065-aiswift_dkg_test-dtjoy-dtjoy#12-6]",
+        "uid" : "7067b4c8c12e9e75",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647921727943,
+          "stop" : 1647921733828,
+          "duration" : 5885
+        },
+        "flaky" : false,
+        "parameters" : [ "'172.168.30.7'", "'33065'", "'dtjoy#12'", "'aiswift_dkg_test'", "'mysqlmysql'", "'6'", "'dtjoy'" ]
+      }, {
+        "name" : "test__005__chuangjian[csvcsv-172.168.30.13-22-/root/wenlx/template_目录.csv-root-admin-,-8]",
+        "uid" : "494e4546248e1dc8",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647922282082,
+          "stop" : 1647922289021,
+          "duration" : 6939
+        },
+        "flaky" : false,
+        "parameters" : [ "'172.168.30.13'", "','", "'22'", "'admin'", "'csvcsv'", "'8'", "'root'", "'/root/wenlx/template_目录.csv'" ]
+      }, {
+        "name" : "test__005__pilangshanchu",
+        "uid" : "c7adced419fcba5e",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647923009843,
+          "stop" : 1647923011709,
+          "duration" : 1866
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test__004__chuangjian[excelexcel-172.168.30.13-22-/root/wenlx/demo-data-20210719.xlsx-root-admi-6]",
+        "uid" : "7ff7a04cae628979",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647922034188,
+          "stop" : 1647922041121,
+          "duration" : 6933
+        },
+        "flaky" : false,
+        "parameters" : [ "'172.168.30.13'", "'22'", "'admi'", "'excelexcel'", "'6'", "'root'", "'/root/wenlx/demo-data-20210719.xlsx'" ]
+      }, {
+        "name" : "test__001__sousuo",
+        "uid" : "fcbe0dc9eb18f3c1",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647922606963,
+          "stop" : 1647922610229,
+          "duration" : 3266
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test__005__chuangjian[-172.168.30.13-22-----1]",
+        "uid" : "a3b92589569c3e51",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647922136586,
+          "stop" : 1647922143411,
+          "duration" : 6825
+        },
+        "flaky" : false,
+        "parameters" : [ "'172.168.30.13'", "''", "'22'", "''", "''", "'1'", "''", "''" ]
+      }, {
+        "name" : "test__001__chuangjian[知识应用自动创建-2]",
+        "uid" : "2b6b37abf75ab77b",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647923117689,
+          "stop" : 1647923127700,
+          "duration" : 10011
+        },
+        "flaky" : false,
+        "parameters" : [ "'2'", "'知识应用自动创建'" ]
+      }, {
+        "name" : "test__003__chuangjian[ocaleocale-172.168.30.13-1521-helowin -aiswift -dtjoy#123-7]",
+        "uid" : "3c505aa999383782",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1647921837388,
+          "stop" : 1647921837388,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ "'172.168.30.13'", "'1521'", "'dtjoy#123'", "'helowin '", "'ocaleocale'", "'7'", "'aiswift '" ]
+      }, {
+        "name" : "test__004__chuangjian[-172.168.30.13-22-/root/wenlx/demo-data-20210719.xlsx-root--3]",
+        "uid" : "ac4f15923bda6c8f",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647921972326,
+          "stop" : 1647921979092,
+          "duration" : 6766
+        },
+        "flaky" : false,
+        "parameters" : [ "'172.168.30.13'", "'22'", "''", "''", "'3'", "'root'", "'/root/wenlx/demo-data-20210719.xlsx'" ]
+      }, {
+        "name" : "test_001__sousuo",
+        "uid" : "b8df2a846e905023",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647922932679,
+          "stop" : 1647922935944,
+          "duration" : 3265
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test__001__chuangjian[3333333339999564545454545458742133333-office_id-2]",
+        "uid" : "eccbc2273ac3c7eb",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647922582443,
+          "stop" : 1647922592502,
+          "duration" : 10059
+        },
+        "flaky" : false,
+        "parameters" : [ "'2'", "'3333333339999564545454545458742133333'", "'office_id'" ]
+      }, {
+        "name" : "test__002__chuangjian[-172.168.30.12.12-143355-aiswift_dkg_dev-SA-<YourNewStrong@Passw0rd>-4]",
+        "uid" : "8f184210674a84b3",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1647921837354,
+          "stop" : 1647921837354,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ "'172.168.30.12.12'", "'143355'", "'<YourNewStrong@Passw0rd>'", "'aiswift_dkg_dev'", "''", "'4'", "'SA'" ]
+      }, {
+        "name" : "test__002__diaodu",
+        "uid" : "3a833263caa75b96",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647922949281,
+          "stop" : 1647922955145,
+          "duration" : 5864
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test__002__chuangjian[sqlserver-172.168.30.12-1433-aiswift_dkg_dev-SA-<YourNewStrong@Passw0rd>-8]",
+        "uid" : "2303efa43974cc48",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1647921837365,
+          "stop" : 1647921837365,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ "'172.168.30.12'", "'1433'", "'<YourNewStrong@Passw0rd>'", "'aiswift_dkg_dev'", "'sqlserver'", "'8'", "'SA'" ]
+      }, {
+        "name" : "test__001__shitiquanliang2[3333333333333333333333333333-2]",
+        "uid" : "772f1f06a9eddb20",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647922876958,
+          "stop" : 1647922882066,
+          "duration" : 5108
+        },
+        "flaky" : false,
+        "parameters" : [ "'3333333333333333333333333333'", "'2'" ]
+      }, {
+        "name" : "test__005__chuangjian[-172.168.30.13-22-/root/wenlx/template_目录.csv----2]",
+        "uid" : "d204aa76f80c4d02",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647922156353,
+          "stop" : 1647922163431,
+          "duration" : 7078
+        },
+        "flaky" : false,
+        "parameters" : [ "'172.168.30.13'", "''", "'22'", "''", "''", "'2'", "''", "'/root/wenlx/template_目录.csv'" ]
+      }, {
+        "name" : "test__004__chuangjian[excelexcel-172.168.30.13-22-555-root-admin-7]",
+        "uid" : "78eac033b52a396c",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647922054854,
+          "stop" : 1647922061672,
+          "duration" : 6818
+        },
+        "flaky" : false,
+        "parameters" : [ "'172.168.30.13'", "'22'", "'admin'", "'excelexcel'", "'7'", "'root'", "'555'" ]
+      }, {
+        "name" : "test__002__xiugai",
+        "uid" : "3e70248bfc8aad2e",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647922624194,
+          "stop" : 1647922632023,
+          "duration" : 7829
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test__001__chuangjian[知识应用自动创建-3]",
+        "uid" : "84f966454d468792",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647923141692,
+          "stop" : 1647923151665,
+          "duration" : 9973
+        },
+        "flaky" : false,
+        "parameters" : [ "'3'", "'知识应用自动创建'" ]
+      }, {
+        "name" : "test__002__shanchu",
+        "uid" : "5074d7b7d6cf3393",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647922338998,
+          "stop" : 1647922344979,
+          "duration" : 5981
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test__004__chuangjian[excelexcel-172.168.30.13-22-/root/wenlx/demo-data-20210719.xlsx-root-admin-9]",
+        "uid" : "303495f90fa4ca7c",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647922095922,
+          "stop" : 1647922102679,
+          "duration" : 6757
+        },
+        "flaky" : false,
+        "parameters" : [ "'172.168.30.13'", "'22'", "'admin'", "'excelexcel'", "'9'", "'root'", "'/root/wenlx/demo-data-20210719.xlsx'" ]
+      }, {
+        "name" : "test__004__chuangjian[123456789789654133654788522-172.168.30.13-22-/root/wenlx/demo-data-20210719.xlsx-root-admin-5]",
+        "uid" : "a72eea2b0fd40c92",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647922013816,
+          "stop" : 1647922020363,
+          "duration" : 6547
+        },
+        "flaky" : false,
+        "parameters" : [ "'172.168.30.13'", "'22'", "'admin'", "'123456789789654133654788522'", "'5'", "'root'", "'/root/wenlx/demo-data-20210719.xlsx'" ]
+      }, {
+        "name" : "test__001__shitizengliang[@-1]",
+        "uid" : "a068e71464606943",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647922735670,
+          "stop" : 1647922740253,
+          "duration" : 4583
+        },
+        "flaky" : false,
+        "parameters" : [ "'@'", "'1'" ]
+      }, {
+        "name" : "test__001__chuangjian[-172.168.30.7-3306-aiswift_dkg_test---2]",
+        "uid" : "fdbb080a15e90a42",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647921649359,
+          "stop" : 1647921654873,
+          "duration" : 5514
+        },
+        "flaky" : false,
+        "parameters" : [ "'172.168.30.7'", "'3306'", "''", "'aiswift_dkg_test'", "''", "'2'", "''" ]
+      }, {
+        "name" : "test__003__chuangjian[-172.168.30.13-1521----1]",
+        "uid" : "ff631297fb220bd9",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1647921837372,
+          "stop" : 1647921837372,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ "'172.168.30.13'", "'1521'", "''", "''", "''", "'1'", "''" ]
+      }, {
+        "name" : "test__006__piliangshanchu",
+        "uid" : "98d92c425ff7276d",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647923025774,
+          "stop" : 1647923030914,
+          "duration" : 5140
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test__003__piliangshanchu",
+        "uid" : "ba3ffc7603af293e",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647922358856,
+          "stop" : 1647922362309,
+          "duration" : 3453
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test__001__chuangjian[mysqlmysql-172.168.30.7-33065-aiswift_dkg_test -dtjoy-dtjoy#123-7]",
+        "uid" : "437e3b2045f65dbe",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647921748477,
+          "stop" : 1647921754264,
+          "duration" : 5787
+        },
+        "flaky" : false,
+        "parameters" : [ "'172.168.30.7'", "'33065'", "'dtjoy#123'", "'aiswift_dkg_test '", "'mysqlmysql'", "'7'", "'dtjoy'" ]
+      }, {
+        "name" : "test__003__chuangjian[123456789789654133654788522-172.168.30.13-1521-helowin-aiswift-dtjoy#123-5]",
+        "uid" : "cbfcc4704c30ac40",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1647921837383,
+          "stop" : 1647921837383,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ "'172.168.30.13'", "'1521'", "'dtjoy#123'", "'helowin'", "'123456789789654133654788522'", "'5'", "'aiswift'" ]
+      }, {
+        "name" : "test__005__chuangjian[-172.168.30.13.13-2222223-/root/wenlx/template_目录.csv-root-admin-,-4]",
+        "uid" : "5948bf87e3ef33ea",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647922197234,
+          "stop" : 1647922204183,
+          "duration" : 6949
+        },
+        "flaky" : false,
+        "parameters" : [ "'172.168.30.13.13'", "','", "'2222223'", "'admin'", "''", "'4'", "'root'", "'/root/wenlx/template_目录.csv'" ]
+      }, {
+        "name" : "test__004__chuangjian[-172.168.30.13-22-/root/wenlx/demo-data-20210719.xlsx---2]",
+        "uid" : "c55dd5159795622a",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647921951414,
+          "stop" : 1647921958169,
+          "duration" : 6755
+        },
+        "flaky" : false,
+        "parameters" : [ "'172.168.30.13'", "'22'", "''", "''", "'2'", "''", "'/root/wenlx/demo-data-20210719.xlsx'" ]
+      }, {
+        "name" : "test__003__chuangjian[@------0]",
+        "uid" : "3d0b58eb7750e5a9",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1647921837369,
+          "stop" : 1647921837369,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ "''", "''", "''", "''", "'@'", "'0'", "''" ]
+      }, {
+        "name" : "test__001__jiaru",
+        "uid" : "570a476ca380027a",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647923321942,
+          "stop" : 1647923326980,
+          "duration" : 5038
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test__001__chuangjian[@--1]",
+        "uid" : "97c12a1870b64206",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647922558656,
+          "stop" : 1647922568271,
+          "duration" : 9615
+        },
+        "flaky" : true,
+        "parameters" : [ "'1'", "'@'", "''" ]
+      }, {
+        "name" : "test__001__chuangjian[@-1]",
+        "uid" : "bb11a782eb3faccf",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647921554923,
+          "stop" : 1647921559227,
+          "duration" : 4304
+        },
+        "flaky" : false,
+        "parameters" : [ "'1'", "'@'" ]
+      }, {
+        "name" : "test__001__sousuo",
+        "uid" : "f67665cdc12f8e2e",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647922322215,
+          "stop" : 1647922325683,
+          "duration" : 3468
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test__001__shitiquanliang2[实体全量-3]",
+        "uid" : "d64e9ac5f833600",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647922895188,
+          "stop" : 1647922900213,
+          "duration" : 5025
+        },
+        "flaky" : false,
+        "parameters" : [ "'实体全量'", "'3'" ]
+      }, {
+        "name" : "test__005__piliangshanchu",
+        "uid" : "5d1ac2c1994b829c",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647922696966,
+          "stop" : 1647922704064,
+          "duration" : 7098
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "test__004__chuangjian[-172.168.30.13-22----1]",
+        "uid" : "558be5946cd51f6e",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647921931560,
+          "stop" : 1647921938224,
+          "duration" : 6664
+        },
+        "flaky" : false,
+        "parameters" : [ "'172.168.30.13'", "'22'", "''", "''", "'1'", "''", "''" ]
+      }, {
+        "name" : "test__005__chuangjian[@-------0]",
+        "uid" : "90922a36215ea8fa",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647922115740,
+          "stop" : 1647922122562,
+          "duration" : 6822
+        },
+        "flaky" : false,
+        "parameters" : [ "''", "''", "''", "''", "'@'", "'0'", "''", "''" ]
+      }, {
+        "name" : "test__004__chuangjian[excelexcel-172.168.30.13-22-/root/wenlx/demo-data-20210719.xlsx-root-admin-8]",
+        "uid" : "3f742da24c96a677",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647922075297,
+          "stop" : 1647922081933,
+          "duration" : 6636
+        },
+        "flaky" : false,
+        "parameters" : [ "'172.168.30.13'", "'22'", "'admin'", "'excelexcel'", "'8'", "'root'", "'/root/wenlx/demo-data-20210719.xlsx'" ]
+      }, {
+        "name" : "test__001__chuangjian[-172.168.30.7-3306-aiswift_dkg_test-dtjoy--3]",
+        "uid" : "d634079f882a4f6c",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647921668344,
+          "stop" : 1647921673888,
+          "duration" : 5544
+        },
+        "flaky" : false,
+        "parameters" : [ "'172.168.30.7'", "'3306'", "''", "'aiswift_dkg_test'", "''", "'3'", "'dtjoy'" ]
+      }, {
+        "name" : "test__001__daochu",
+        "uid" : "f7d2112c349f00c4",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647921590711,
+          "stop" : 1647921594983,
+          "duration" : 4272
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test__002__chuangjian[sqlserver-172.168.30.12-1433-aiswift_dkg_dev-SA-<YourNewStrong@Passw0rd-6]",
+        "uid" : "ff5e78cdaca7b84e",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1647921837358,
+          "stop" : 1647921837358,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ "'172.168.30.12'", "'1433'", "'<YourNewStrong@Passw0rd'", "'aiswift_dkg_dev'", "'sqlserver'", "'6'", "'SA'" ]
+      }, {
+        "name" : "test__001__chuangjian[-0]",
+        "uid" : "39c6c3a898b136a0",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647923070907,
+          "stop" : 1647923080641,
+          "duration" : 9734
+        },
+        "flaky" : true,
+        "parameters" : [ "'0'", "''" ]
+      }, {
+        "name" : "test__001__chuangjian[自动创建本体-2]",
+        "uid" : "7696f1100af2c03e",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647921572319,
+          "stop" : 1647921576697,
+          "duration" : 4378
+        },
+        "flaky" : false,
+        "parameters" : [ "'2'", "'自动创建本体'" ]
+      }, {
+        "name" : "test__003__chuangjian[ocaleocale-172.168.30.13-1521-helowin-aiswift-dtjoy#12-6]",
+        "uid" : "5a180f1d5055f495",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1647921837386,
+          "stop" : 1647921837386,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ "'172.168.30.13'", "'1521'", "'dtjoy#12'", "'helowin'", "'ocaleocale'", "'6'", "'aiswift'" ]
+      }, {
+        "name" : "test__002__chuangjian[-172.168.30.12-1433-aiswift_dkg_dev---2]",
+        "uid" : "149d04bd8b112884",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1647921837349,
+          "stop" : 1647921837349,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ "'172.168.30.12'", "'1433'", "''", "'aiswift_dkg_dev'", "''", "'2'", "''" ]
+      }, {
+        "name" : "test__004__chuangjian[-172.168.30.13.13-2222223-/root/wenlx/demo-data-20210719.xlsx-root-admin-4]",
+        "uid" : "d002a06478748111",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647921993094,
+          "stop" : 1647922000135,
+          "duration" : 7041
+        },
+        "flaky" : false,
+        "parameters" : [ "'172.168.30.13.13'", "'2222223'", "'admin'", "''", "'4'", "'root'", "'/root/wenlx/demo-data-20210719.xlsx'" ]
+      }, {
+        "name" : "test__002__chuangjian[sqlserver-172.168.30.12-1433-aiswift_dkg_dev-SA-<YourNewStrong@Passw0rd>-9]",
+        "uid" : "9942d9dacd0a3f69",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1647921837367,
+          "stop" : 1647921837367,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ "'172.168.30.12'", "'1433'", "'<YourNewStrong@Passw0rd>'", "'aiswift_dkg_dev'", "'sqlserver'", "'9'", "'SA'" ]
+      }, {
+        "name" : "test__001__chuangjian[A-B-C-D-5]",
+        "uid" : "cb161e047fd1dbc6",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647923295660,
+          "stop" : 1647923306712,
+          "duration" : 11052
+        },
+        "flaky" : false,
+        "parameters" : [ "'5'", "'A'", "'B'", "'C'", "'D'" ]
+      }, {
+        "name" : "test__001__chuangjian[mysqlmysql-172.168.30.7-3306-aiswift_dkg_test-dtjoy-dtjoy#123-9]",
+        "uid" : "575ad909457b45dd",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647921831370,
+          "stop" : 1647921836809,
+          "duration" : 5439
+        },
+        "flaky" : false,
+        "parameters" : [ "'172.168.30.7'", "'3306'", "'dtjoy#123'", "'aiswift_dkg_test'", "'mysqlmysql'", "'9'", "'dtjoy'" ]
+      }, {
+        "name" : "test__003__chuangjian[ocaleocale-172.168.30.13-1521-helowin-aiswift-dtjoy#123-8]",
+        "uid" : "a9e73029ed4fa5de",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1647921837390,
+          "stop" : 1647921837390,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ "'172.168.30.13'", "'1521'", "'dtjoy#123'", "'helowin'", "'ocaleocale'", "'8'", "'aiswift'" ]
+      }, {
+        "name" : "test__001__chuangjian[@------0]",
+        "uid" : "8322ec9beb378fe0",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647921608895,
+          "stop" : 1647921614590,
+          "duration" : 5695
+        },
+        "flaky" : false,
+        "parameters" : [ "''", "''", "''", "''", "'@'", "'0'", "''" ]
+      }, {
+        "name" : "test__002__chuangjian[123456789789654133654788522-172.168.30.12-1433-aiswift_dkg_dev-SA-<YourNewStrong@Passw0rd>-5]",
+        "uid" : "2bd5d85f3aaddaaf",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1647921837356,
+          "stop" : 1647921837356,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ "'172.168.30.12'", "'1433'", "'<YourNewStrong@Passw0rd>'", "'aiswift_dkg_dev'", "'123456789789654133654788522'", "'5'", "'SA'" ]
+      }, {
+        "name" : "test__001__chuangjian[-172.168.30.7-3306----1]",
+        "uid" : "68549a861cc5cee4",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647921629104,
+          "stop" : 1647921634990,
+          "duration" : 5886
+        },
+        "flaky" : false,
+        "parameters" : [ "'172.168.30.7'", "'3306'", "''", "''", "''", "'1'", "''" ]
+      }, {
+        "name" : "test__001__chuangjian[----0]",
+        "uid" : "a7ef5dbb2e32e131",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647923165861,
+          "stop" : 1647923176937,
+          "duration" : 11076
+        },
+        "flaky" : false,
+        "parameters" : [ "'0'", "''", "''", "''", "''" ]
+      }, {
+        "name" : "test__001__chuangjian[A-B---2]",
+        "uid" : "dc65ab32449240eb",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647923216904,
+          "stop" : 1647923227960,
+          "duration" : 11056
+        },
+        "flaky" : false,
+        "parameters" : [ "'2'", "'A'", "'B'", "''", "''" ]
+      }, {
+        "name" : "test__005__chuangjian[123456789789654133654788522-172.168.30.7-22-/root/wenlx/template_目录.csv-root-admin-,-5]",
+        "uid" : "d6d87ff43495528e",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647922218606,
+          "stop" : 1647922225803,
+          "duration" : 7197
+        },
+        "flaky" : false,
+        "parameters" : [ "'172.168.30.7'", "','", "'22'", "'admin'", "'123456789789654133654788522'", "'5'", "'root'", "'/root/wenlx/template_目录.csv'" ]
+      }, {
+        "name" : "test__001__chuangjian[A----3]",
+        "uid" : "c4e44841e4af8f3c",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647923242161,
+          "stop" : 1647923253213,
+          "duration" : 11052
+        },
+        "flaky" : false,
+        "parameters" : [ "'3'", "'A'", "''", "''", "''" ]
+      }, {
+        "name" : "test__005__chuangjian[csvcsv-172.168.30.13-22-555-root-admin-,-7]",
+        "uid" : "da2f2f634117d81",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647922259428,
+          "stop" : 1647922266280,
+          "duration" : 6852
+        },
+        "flaky" : false,
+        "parameters" : [ "'172.168.30.13'", "','", "'22'", "'admin'", "'csvcsv'", "'7'", "'root'", "'555'" ]
+      }, {
+        "name" : "test__002__chuangjian[-172.168.30.12-1433----1]",
+        "uid" : "97c586fa12834488",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1647921837347,
+          "stop" : 1647921837347,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ "'172.168.30.12'", "'1433'", "''", "''", "''", "'1'", "''" ]
+      }, {
+        "name" : "test__001__chuangjian[AAAAAAAAAAAA-BBBBBBBBBBBB-CCCCCCCCCCCC-DDDDDDDDDDDD-4]",
+        "uid" : "f86e582934d46999",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647923269523,
+          "stop" : 1647923280651,
+          "duration" : 11128
+        },
+        "flaky" : false,
+        "parameters" : [ "'4'", "'AAAAAAAAAAAA'", "'BBBBBBBBBBBB'", "'CCCCCCCCCCCC'", "'DDDDDDDDDDDD'" ]
+      }, {
+        "name" : "test__001__chuangjian[--0]",
+        "uid" : "fe2ff244dc9f8fc6",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647922419856,
+          "stop" : 1647922427543,
+          "duration" : 7687
+        },
+        "flaky" : false,
+        "parameters" : [ "'0'", "''", "''" ]
+      }, {
+        "name" : "test__003__shanchu",
+        "uid" : "dac869e186ece900",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647922645873,
+          "stop" : 1647922651643,
+          "duration" : 5770
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test__004__shanchu",
+        "uid" : "fc8aadaee5a7a11d",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647922988292,
+          "stop" : 1647922995334,
+          "duration" : 7042
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test__005__chuangjian[csvcsv-172.168.30.13-22-/root/wenlx/template_目录.csv-root-admi-,-6]",
+        "uid" : "18f9a4da11aa2444",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647922239290,
+          "stop" : 1647922246298,
+          "duration" : 7008
+        },
+        "flaky" : false,
+        "parameters" : [ "'172.168.30.13'", "','", "'22'", "'admi'", "'csvcsv'", "'6'", "'root'", "'/root/wenlx/template_目录.csv'" ]
+      }, {
+        "name" : "test__003__chuangjian[ocaleocale-172.168.30.13-1521-helowin-aiswift-dtjoy#123-9]",
+        "uid" : "d267497009b958f7",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1647921837395,
+          "stop" : 1647921837395,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ "'172.168.30.13'", "'1521'", "'dtjoy#123'", "'helowin'", "'ocaleocale'", "'9'", "'aiswift'" ]
+      }, {
+        "name" : "test__001__shitizengliang[3333333333333333333333333333-2]",
+        "uid" : "3d96643e827a7394",
+        "parentUid" : "c1ffb8047f810e524c3ec5ca0ec993de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647922753997,
+          "stop" : 1647922758943,
+          "duration" : 4946
+        },
+        "flaky" : false,
+        "parameters" : [ "'3333333333333333333333333333'", "'2'" ]
+      } ],
+      "uid" : "c1ffb8047f810e524c3ec5ca0ec993de"
+    } ],
+    "uid" : "17df363965fa35faf4391bc33a03b2a9"
+  } ]
+}

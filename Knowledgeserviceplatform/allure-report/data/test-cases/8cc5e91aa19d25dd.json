@@ -1,0 +1,84 @@
+{
+  "uid" : "8cc5e91aa19d25dd",
+  "name" : "test__003__chuangjian[-172.168.30.13.13-152133-helowin-aiswift-dtjoy#123-4]",
+  "fullName" : "Test.TestCase.test_005_datasourcemanage.TestChuangjian3#test__003__chuangjian",
+  "historyId" : "64b0e13d8ef58299d5a959ddcc4d6eeb",
+  "time" : {
+    "start" : 1647921837381,
+    "stop" : 1647921837381,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "statusMessage" : "Skipped: 暂时不用",
+  "statusTrace" : "('E:\\\\python-pycharm\\\\pythonProject\\\\shujufuwupingtai\\\\Test\\\\TestCase\\\\test_005_datasourcemanage.py', 15, 'Skipped: 暂时不用')",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "数据源的创建-orcale"
+  }, {
+    "name" : "tag",
+    "value" : "@pytest.mark.skip('暂时不用')"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Test.TestCase"
+  }, {
+    "name" : "suite",
+    "value" : "test_005_datasourcemanage"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestChuangjian3"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-T0HOEE8"
+  }, {
+    "name" : "thread",
+    "value" : "2156-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Test.TestCase.test_005_datasourcemanage"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "dizhivalue",
+    "value" : "'172.168.30.13.13'"
+  }, {
+    "name" : "ipvalue",
+    "value" : "'152133'"
+  }, {
+    "name" : "password",
+    "value" : "'dtjoy#123'"
+  }, {
+    "name" : "shujukuvalue",
+    "value" : "'helowin'"
+  }, {
+    "name" : "shujuvalue",
+    "value" : "''"
+  }, {
+    "name" : "status",
+    "value" : "'4'"
+  }, {
+    "name" : "username",
+    "value" : "'aiswift'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "@pytest.mark.skip('暂时不用')" ]
+  },
+  "source" : "8cc5e91aa19d25dd.json",
+  "parameterValues" : [ "'172.168.30.13.13'", "'152133'", "'dtjoy#123'", "'helowin'", "''", "'4'", "'aiswift'" ]
+}

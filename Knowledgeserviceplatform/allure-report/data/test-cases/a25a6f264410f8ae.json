@@ -1,0 +1,137 @@
+{
+  "uid" : "a25a6f264410f8ae",
+  "name" : "test__001__chuangjian[--0]",
+  "fullName" : "Test.TestCase.test_011_mappingmanage.TestChuangjianguanxi#test__001__chuangjian",
+  "historyId" : "9959be57af7924b35798917460396824",
+  "time" : {
+    "start" : 1647922507638,
+    "stop" : 1647922517994,
+    "duration" : 10356
+  },
+  "status" : "passed",
+  "flaky" : true,
+  "beforeStages" : [ {
+    "name" : "_xunit_setup_method_fixture_TestChuangjianguanxi",
+    "time" : {
+      "start" : 1647922495247,
+      "stop" : 1647922507636,
+      "duration" : 12389
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7a9b0fe91ce4f74b",
+      "name" : "log",
+      "source" : "7a9b0fe91ce4f74b.txt",
+      "type" : "text/plain",
+      "size" : 2341
+    }, {
+      "uid" : "80b08c19c020c73f",
+      "name" : "stdout",
+      "source" : "80b08c19c020c73f.txt",
+      "type" : "text/plain",
+      "size" : 51
+    }, {
+      "uid" : "f096e4377b76a290",
+      "name" : "stderr",
+      "source" : "f096e4377b76a290.txt",
+      "type" : "text/plain",
+      "size" : 2966
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 3,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ {
+    "name" : "_xunit_setup_method_fixture_TestChuangjianguanxi::0",
+    "time" : {
+      "start" : 1647922517996,
+      "stop" : 1647922518653,
+      "duration" : 657
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "创建关系映射"
+  }, {
+    "name" : "feature",
+    "value" : "知识映射-创建-关系映射"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Test.TestCase"
+  }, {
+    "name" : "suite",
+    "value" : "test_011_mappingmanage"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestChuangjianguanxi"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-T0HOEE8"
+  }, {
+    "name" : "thread",
+    "value" : "2156-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Test.TestCase.test_011_mappingmanage"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "status",
+    "value" : "'0'"
+  }, {
+    "name" : "ysmcvalue",
+    "value" : "''"
+  }, {
+    "name" : "zlxlvalue",
+    "value" : "''"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "414b54731cd83152",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert '请输入增量字段' in '<html style=\"\" lang=\"en\"><head><style rc-util-key=\"@ant-design-icons\">\\n.anticon {\\n  display: inline-block;\\n  color: inherit;\\n  font-style: normal;\\n  line-height: 0;\\n  text-align: center;\\n  text-transform: none;\\n  vertical-align: -0.125em;\\n  text-rendering: optimizeLegibility;\\n  -webkit-font-smoothing: antialiased;\\n  -moz-osx-font-smoothing: grayscale;\\n}\\n\\n.anticon > * {\\n  line-height: 1;\\n}\\n\\n.anticon svg {\\n  display: inline-block;\\n}\\n\\n.anticon::before {\\n  display: none;\\n}\\n\\n.anticon .anticon-icon {\\n  display: block;\\n}\\n\\n.anticon[tabindex] {\\n  cursor: pointer;\\n}\\n\\n.anticon-spin::before,\\n.anticon-spin {\\n  display: inline-block;\\n  -webkit-animation: loadingCircle 1s infinite linear;\\n  animation: loadingCircle 1s infinite linear;\\n}\\n\\n@-webkit-keyframes loadingCircle {\\n  100% {\\n    -webkit-transform: rotate(360deg);\\n    transform: rotate(360deg);\\n  }\\n}\\n\\n@keyframes loadingCircle {\\n  100% {\\n    -webkit-transform: rotate(360deg);\\n    transform: rotate(360deg);\\n  }\\n}\\n</style>\\n    <meta charset=\"UTF-8\">\\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\\n    <meta name=\"keywords\" content=\"知识服务平台\">\\n    <meta name=\"description\" conten... 0px;\"><path d=\"M 0 0 L 74.23332214355469 0\" stroke=\"#979797\"></path></svg></div><div style=\"position: absolute; top: 876.5px; left: 886.9px; width: 74.2333px; height: 1px; z-index: 1;\" class=\"pathLine\" source=\"material_sample_table\" target=\"material_sample_table\" name=\"toVertex\"><svg height=\"1\" width=\"74.23332214355469\" style=\"position: absolute; top: 0px; left: 0px;\"><path d=\"M 0 0 L 74.23332214355469 0\" stroke=\"#979797\"></path></svg></div><div style=\"position: absolute; top: 916.3px; left: 886.9px; width: 74.2333px; height: 1px; z-index: 1;\" class=\"pathLine\" source=\"material_impl_code\" target=\"material_impl_code\" name=\"toVertex\"><svg height=\"1\" width=\"74.23332214355469\" style=\"position: absolute; top: 0px; left: 0px;\"><path d=\"M 0 0 L 74.23332214355469 0\" stroke=\"#979797\"></path></svg></div><div style=\"position: absolute; top: 955.7px; left: 886.9px; width: 74.2333px; height: 1px; z-index: 1;\" class=\"pathLine\" source=\"paper_material_specification\" target=\"paper_material_specification\" name=\"toVertex\"><svg height=\"1\" width=\"74.23332214355469\" style=\"position: absolute; top: 0px; left: 0px;\"><path d=\"M 0 0 L 74.23332214355469 0\" stroke=\"#979797\"></path></svg></div></body></html>'\n +  where '<html style=\"\" lang=\"en\"><head><style rc-util-key=\"@ant-design-icons\">\\n.anticon {\\n  display: inline-block;\\n  color: inherit;\\n  font-style: normal;\\n  line-height: 0;\\n  text-align: center;\\n  text-transform: none;\\n  vertical-align: -0.125em;\\n  text-rendering: optimizeLegibility;\\n  -webkit-font-smoothing: antialiased;\\n  -moz-osx-font-smoothing: grayscale;\\n}\\n\\n.anticon > * {\\n  line-height: 1;\\n}\\n\\n.anticon svg {\\n  display: inline-block;\\n}\\n\\n.anticon::before {\\n  display: none;\\n}\\n\\n.anticon .anticon-icon {\\n  display: block;\\n}\\n\\n.anticon[tabindex] {\\n  cursor: pointer;\\n}\\n\\n.anticon-spin::before,\\n.anticon-spin {\\n  display: inline-block;\\n  -webkit-animation: loadingCircle 1s infinite linear;\\n  animation: loadingCircle 1s infinite linear;\\n}\\n\\n@-webkit-keyframes loadingCircle {\\n  100% {\\n    -webkit-transform: rotate(360deg);\\n    transform: rotate(360deg);\\n  }\\n}\\n\\n@keyframes loadingCircle {\\n  100% {\\n    -webkit-transform: rotate(360deg);\\n    transform: rotate(360deg);\\n  }\\n}\\n</style>\\n    <meta charset=\"UTF-8\">\\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\\n    <meta name=\"keywords\" content=\"知识服务平台\">\\n    <meta name=\"description\" conten... 0px;\"><path d=\"M 0 0 L 74.23332214355469 0\" stroke=\"#979797\"></path></svg></div><div style=\"position: absolute; top: 876.5px; left: 886.9px; width: 74.2333px; height: 1px; z-index: 1;\" class=\"pathLine\" source=\"material_sample_table\" target=\"material_sample_table\" name=\"toVertex\"><svg height=\"1\" width=\"74.23332214355469\" style=\"position: absolute; top: 0px; left: 0px;\"><path d=\"M 0 0 L 74.23332214355469 0\" stroke=\"#979797\"></path></svg></div><div style=\"position: absolute; top: 916.3px; left: 886.9px; width: 74.2333px; height: 1px; z-index: 1;\" class=\"pathLine\" source=\"material_impl_code\" target=\"material_impl_code\" name=\"toVertex\"><svg height=\"1\" width=\"74.23332214355469\" style=\"position: absolute; top: 0px; left: 0px;\"><path d=\"M 0 0 L 74.23332214355469 0\" stroke=\"#979797\"></path></svg></div><div style=\"position: absolute; top: 955.7px; left: 886.9px; width: 74.2333px; height: 1px; z-index: 1;\" class=\"pathLine\" source=\"paper_material_specification\" target=\"paper_material_specification\" name=\"toVertex\"><svg height=\"1\" width=\"74.23332214355469\" style=\"position: absolute; top: 0px; left: 0px;\"><path d=\"M 0 0 L 74.23332214355469 0\" stroke=\"#979797\"></path></svg></div></body></html>' = <selenium.webdriver.firefox.webdriver.WebDriver (session=\"5d7ab9d6-aecf-409b-9a5c-a17268e5e315\")>.page_source\n +    where <selenium.webdriver.firefox.webdriver.WebDriver (session=\"5d7ab9d6-aecf-409b-9a5c-a17268e5e315\")> = <test_011_mappingmanage.TestChuangjianguanxi object at 0x0000021BFD102B20>.driver",
+      "time" : {
+        "start" : 1647922482635,
+        "stop" : 1647922492650,
+        "duration" : 10015
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a25a6f264410f8ae.json",
+  "parameterValues" : [ "'0'", "''", "''" ]
+}

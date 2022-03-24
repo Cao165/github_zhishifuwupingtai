@@ -1,7 +1,0 @@
-2022-03-23 11:21:48,509 INFO [root] [Base.py (input:31] - 现在使用id定位,找到了元素--,来输入gaj
-2022-03-23 11:21:48,550 INFO [root] [Base.py (input:31] - 现在使用id定位,找到了元素--,来输入123456
-2022-03-23 11:21:48,593 INFO [root] [Base.py (click:20] - 现在使用xpath定位,找到了元素--,来点击click
-2022-03-23 11:21:49,836 INFO [root] [Base.py (click:20] - 现在使用xpath定位,找到了元素--,来点击click
-2022-03-23 11:21:51,475 INFO [root] [Base.py (click:20] - 现在使用xpath定位,找到了元素--,来点击click
-2022-03-23 11:21:51,568 INFO [root] [Base.py (click:20] - 现在使用xpath定位,找到了元素--,来点击click
-2022-03-23 11:21:59,958 ERROR [root] [Base.py (moveclick:67] - 查找元素失败,xpath://*[contains(text(),'自动创建本体')]

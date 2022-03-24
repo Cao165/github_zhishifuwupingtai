@@ -1,0 +1,11 @@
+shujuvalue,dizhivalue,ipvalue,shujukuvalue,username,password,status
+@,,,,,,0
+,172.168.30.12,1433,,,,1
+,172.168.30.12,1433,aiswift_dkg_dev,,,2
+,172.168.30.12,1433,aiswift_dkg_dev,SA,,3
+,172.168.30.12.12,143355,aiswift_dkg_dev,SA,<YourNewStrong@Passw0rd>,4
+123456789789654133654788522,172.168.30.12,1433,aiswift_dkg_dev,SA,<YourNewStrong@Passw0rd>,5
+sqlserver,172.168.30.12,1433,aiswift_dkg_dev,SA,<YourNewStrong@Passw0rd,6
+sqlserver,172.168.30.12,1433,aiswift_dkg_dev ,SA,<YourNewStrong@Passw0rd>,7
+sqlserver,172.168.30.12,1433,aiswift_dkg_dev,SA,<YourNewStrong@Passw0rd>,8
+sqlserver,172.168.30.12,1433,aiswift_dkg_dev,SA,<YourNewStrong@Passw0rd>,9

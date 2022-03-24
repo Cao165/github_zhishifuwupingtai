@@ -1,0 +1,13 @@
+2022-03-22 12:26:28,691 INFO [root] [Base.py (input:32] - 现在使用id定位,找到了元素--,来输入gaj
+2022-03-22 12:26:28,737 INFO [root] [Base.py (input:32] - 现在使用id定位,找到了元素--,来输入123456
+2022-03-22 12:26:28,777 INFO [root] [Base.py (click:21] - 现在使用xpath定位,找到了元素--,来点击click
+2022-03-22 12:26:30,015 INFO [root] [Base.py (click:21] - 现在使用xpath定位,找到了元素--,来点击click
+2022-03-22 12:26:31,506 INFO [root] [Base.py (click:21] - 现在使用xpath定位,找到了元素--,来点击click
+2022-03-22 12:26:32,047 INFO [root] [Base.py (click:21] - 现在使用xpath定位,找到了元素--,来点击click
+2022-03-22 12:26:33,067 INFO [root] [Base.py (click:21] - 现在使用xpath定位,找到了元素--,来点击click
+2022-03-22 12:26:34,299 INFO [root] [Base.py (click:21] - 现在使用xpath定位,找到了元素--,来点击click
+2022-03-22 12:26:35,540 INFO [root] [Base.py (input:32] - 现在使用xpath定位,找到了元素--,来输入A
+2022-03-22 12:26:36,580 INFO [root] [Base.py (input:32] - 现在使用xpath定位,找到了元素--,来输入B
+2022-03-22 12:26:37,609 INFO [root] [Base.py (input:32] - 现在使用xpath定位,找到了元素--,来输入C
+2022-03-22 12:26:38,649 INFO [root] [Base.py (input:32] - 现在使用xpath定位,找到了元素--,来输入
+2022-03-22 12:26:39,676 INFO [root] [Base.py (click:21] - 现在使用xpath定位,找到了元素--,来点击click

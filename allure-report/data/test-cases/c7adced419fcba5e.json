@@ -1,0 +1,113 @@
+{
+  "uid" : "c7adced419fcba5e",
+  "name" : "test__005__pilangshanchu",
+  "fullName" : "Test.TestCase.test_016_schedulingmanage.TestDiaodusousou#test__005__pilangshanchu",
+  "historyId" : "2e03d585b56b110e8bccb871761a0bea",
+  "time" : {
+    "start" : 1647923009843,
+    "stop" : 1647923011709,
+    "duration" : 1866
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "_xunit_setup_method_fixture_TestDiaodusousou",
+    "time" : {
+      "start" : 1647922995884,
+      "stop" : 1647923009842,
+      "duration" : 13958
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "21cf1182770a20f6",
+      "name" : "log",
+      "source" : "21cf1182770a20f6.txt",
+      "type" : "text/plain",
+      "size" : 720
+    }, {
+      "uid" : "fc7204e4ec5771cf",
+      "name" : "stderr",
+      "source" : "fc7204e4ec5771cf.txt",
+      "type" : "text/plain",
+      "size" : 913
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ {
+    "name" : "_xunit_setup_method_fixture_TestDiaodusousou::0",
+    "time" : {
+      "start" : 1647923011710,
+      "stop" : 1647923012242,
+      "duration" : 532
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "调度管理-搜索-调度-修改-删除-批量刪除"
+  }, {
+    "name" : "story",
+    "value" : "批量刪除-未选中"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Test.TestCase"
+  }, {
+    "name" : "suite",
+    "value" : "test_016_schedulingmanage"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestDiaodusousou"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-T0HOEE8"
+  }, {
+    "name" : "thread",
+    "value" : "2156-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Test.TestCase.test_016_schedulingmanage"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c7adced419fcba5e.json",
+  "parameterValues" : [ ]
+}

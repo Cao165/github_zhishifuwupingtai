@@ -1,0 +1,113 @@
+{
+  "uid" : "ba3ffc7603af293e",
+  "name" : "test__003__piliangshanchu",
+  "fullName" : "Test.TestCase.test_008_datasourcemanage.TestSousuoShanchu#test__003__piliangshanchu",
+  "historyId" : "617b2ff2ca46497155ebafc2a148d5ed",
+  "time" : {
+    "start" : 1647922358856,
+    "stop" : 1647922362309,
+    "duration" : 3453
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "_xunit_setup_method_fixture_TestSousuoShanchu",
+    "time" : {
+      "start" : 1647922345532,
+      "stop" : 1647922358855,
+      "duration" : 13323
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "9cdb042e411e8ea5",
+      "name" : "log",
+      "source" : "9cdb042e411e8ea5.txt",
+      "type" : "text/plain",
+      "size" : 907
+    }, {
+      "uid" : "496136fe4efbfb4f",
+      "name" : "stderr",
+      "source" : "496136fe4efbfb4f.txt",
+      "type" : "text/plain",
+      "size" : 1153
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ {
+    "name" : "_xunit_setup_method_fixture_TestSousuoShanchu::0",
+    "time" : {
+      "start" : 1647922362309,
+      "stop" : 1647922362876,
+      "duration" : 567
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "数据源-搜索-删除-批量删除"
+  }, {
+    "name" : "story",
+    "value" : "批量删除-未选中"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Test.TestCase"
+  }, {
+    "name" : "suite",
+    "value" : "test_008_datasourcemanage"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestSousuoShanchu"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-T0HOEE8"
+  }, {
+    "name" : "thread",
+    "value" : "2156-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Test.TestCase.test_008_datasourcemanage"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ba3ffc7603af293e.json",
+  "parameterValues" : [ ]
+}

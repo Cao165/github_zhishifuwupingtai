@@ -1,0 +1,131 @@
+{
+  "uid" : "303495f90fa4ca7c",
+  "name" : "test__004__chuangjian[excelexcel-172.168.30.13-22-/root/wenlx/demo-data-20210719.xlsx-root-admin-9]",
+  "fullName" : "Test.TestCase.test_006_datasourcemanage.TestChuangjian4#test__004__chuangjian",
+  "historyId" : "cbafcc0575742b6e9cbade79540104dd",
+  "time" : {
+    "start" : 1647922095922,
+    "stop" : 1647922102679,
+    "duration" : 6757
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "_xunit_setup_method_fixture_TestChuangjian4",
+    "time" : {
+      "start" : 1647922082508,
+      "stop" : 1647922095921,
+      "duration" : 13413
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "cc7bfb4353df63e9",
+      "name" : "log",
+      "source" : "cc7bfb4353df63e9.txt",
+      "type" : "text/plain",
+      "size" : 1578
+    }, {
+      "uid" : "d3933a4fda9df2cf",
+      "name" : "stderr",
+      "source" : "d3933a4fda9df2cf.txt",
+      "type" : "text/plain",
+      "size" : 1987
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ {
+    "name" : "_xunit_setup_method_fixture_TestChuangjian4::0",
+    "time" : {
+      "start" : 1647922102682,
+      "stop" : 1647922103219,
+      "duration" : 537
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "数据源的创建-excel"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Test.TestCase"
+  }, {
+    "name" : "suite",
+    "value" : "test_006_datasourcemanage"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestChuangjian4"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-T0HOEE8"
+  }, {
+    "name" : "thread",
+    "value" : "2156-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Test.TestCase.test_006_datasourcemanage"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "dizhivalue",
+    "value" : "'172.168.30.13'"
+  }, {
+    "name" : "ipvalue",
+    "value" : "'22'"
+  }, {
+    "name" : "password",
+    "value" : "'admin'"
+  }, {
+    "name" : "shujuvalue",
+    "value" : "'excelexcel'"
+  }, {
+    "name" : "status",
+    "value" : "'9'"
+  }, {
+    "name" : "username",
+    "value" : "'root'"
+  }, {
+    "name" : "wenjianvlaue",
+    "value" : "'/root/wenlx/demo-data-20210719.xlsx'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "303495f90fa4ca7c.json",
+  "parameterValues" : [ "'172.168.30.13'", "'22'", "'admin'", "'excelexcel'", "'9'", "'root'", "'/root/wenlx/demo-data-20210719.xlsx'" ]
+}

@@ -1,0 +1,131 @@
+{
+  "uid" : "437e3b2045f65dbe",
+  "name" : "test__001__chuangjian[mysqlmysql-172.168.30.7-33065-aiswift_dkg_test -dtjoy-dtjoy#123-7]",
+  "fullName" : "Test.TestCase.test_003_datasourcemanage.TestChuangjian1#test__001__chuangjian",
+  "historyId" : "680c5ae251fda693c73c929e2b23ebf2",
+  "time" : {
+    "start" : 1647921748477,
+    "stop" : 1647921754264,
+    "duration" : 5787
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "_xunit_setup_method_fixture_TestChuangjian1",
+    "time" : {
+      "start" : 1647921734374,
+      "stop" : 1647921748476,
+      "duration" : 14102
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "bdc875114b854a77",
+      "name" : "log",
+      "source" : "bdc875114b854a77.txt",
+      "type" : "text/plain",
+      "size" : 1567
+    }, {
+      "uid" : "97a7efd3675b2f7",
+      "name" : "stderr",
+      "source" : "97a7efd3675b2f7.txt",
+      "type" : "text/plain",
+      "size" : 1976
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ {
+    "name" : "_xunit_setup_method_fixture_TestChuangjian1::0",
+    "time" : {
+      "start" : 1647921754267,
+      "stop" : 1647921754810,
+      "duration" : 543
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "数据源的创建-mysql"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Test.TestCase"
+  }, {
+    "name" : "suite",
+    "value" : "test_003_datasourcemanage"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestChuangjian1"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-T0HOEE8"
+  }, {
+    "name" : "thread",
+    "value" : "2156-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Test.TestCase.test_003_datasourcemanage"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "dizhivalue",
+    "value" : "'172.168.30.7'"
+  }, {
+    "name" : "ipvalue",
+    "value" : "'33065'"
+  }, {
+    "name" : "password",
+    "value" : "'dtjoy#123'"
+  }, {
+    "name" : "shujukuvalue",
+    "value" : "'aiswift_dkg_test '"
+  }, {
+    "name" : "shujuvalue",
+    "value" : "'mysqlmysql'"
+  }, {
+    "name" : "status",
+    "value" : "'7'"
+  }, {
+    "name" : "username",
+    "value" : "'dtjoy'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "437e3b2045f65dbe.json",
+  "parameterValues" : [ "'172.168.30.7'", "'33065'", "'dtjoy#123'", "'aiswift_dkg_test '", "'mysqlmysql'", "'7'", "'dtjoy'" ]
+}

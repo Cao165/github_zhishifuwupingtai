@@ -1,0 +1,134 @@
+{
+  "uid" : "5948bf87e3ef33ea",
+  "name" : "test__005__chuangjian[-172.168.30.13.13-2222223-/root/wenlx/template_目录.csv-root-admin-,-4]",
+  "fullName" : "Test.TestCase.test_007_datasourcemanage.TestChuangjian5#test__005__chuangjian",
+  "historyId" : "80e16c18e2442a40f946eb3b34f87b83",
+  "time" : {
+    "start" : 1647922197234,
+    "stop" : 1647922204183,
+    "duration" : 6949
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "_xunit_setup_method_fixture_TestChuangjian5",
+    "time" : {
+      "start" : 1647922184268,
+      "stop" : 1647922197231,
+      "duration" : 12963
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "5cd87f01ba02c9dd",
+      "name" : "log",
+      "source" : "5cd87f01ba02c9dd.txt",
+      "type" : "text/plain",
+      "size" : 1659
+    }, {
+      "uid" : "724660111eef8f8f",
+      "name" : "stderr",
+      "source" : "724660111eef8f8f.txt",
+      "type" : "text/plain",
+      "size" : 2092
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ {
+    "name" : "_xunit_setup_method_fixture_TestChuangjian5::0",
+    "time" : {
+      "start" : 1647922204187,
+      "stop" : 1647922204735,
+      "duration" : 548
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "数据源的创建-csv"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Test.TestCase"
+  }, {
+    "name" : "suite",
+    "value" : "test_007_datasourcemanage"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestChuangjian5"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-T0HOEE8"
+  }, {
+    "name" : "thread",
+    "value" : "2156-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Test.TestCase.test_007_datasourcemanage"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "dizhivalue",
+    "value" : "'172.168.30.13.13'"
+  }, {
+    "name" : "fegefuvalue",
+    "value" : "','"
+  }, {
+    "name" : "ipvalue",
+    "value" : "'2222223'"
+  }, {
+    "name" : "password",
+    "value" : "'admin'"
+  }, {
+    "name" : "shujuvalue",
+    "value" : "''"
+  }, {
+    "name" : "status",
+    "value" : "'4'"
+  }, {
+    "name" : "username",
+    "value" : "'root'"
+  }, {
+    "name" : "wenjianvlaue",
+    "value" : "'/root/wenlx/template_目录.csv'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5948bf87e3ef33ea.json",
+  "parameterValues" : [ "'172.168.30.13.13'", "','", "'2222223'", "'admin'", "''", "'4'", "'root'", "'/root/wenlx/template_目录.csv'" ]
+}

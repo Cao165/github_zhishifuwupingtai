@@ -1,0 +1,134 @@
+{
+  "uid" : "a3b92589569c3e51",
+  "name" : "test__005__chuangjian[-172.168.30.13-22-----1]",
+  "fullName" : "Test.TestCase.test_007_datasourcemanage.TestChuangjian5#test__005__chuangjian",
+  "historyId" : "8ae09f18bd9aa1c936fb0070196ae9e8",
+  "time" : {
+    "start" : 1647922136586,
+    "stop" : 1647922143411,
+    "duration" : 6825
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "_xunit_setup_method_fixture_TestChuangjian5",
+    "time" : {
+      "start" : 1647922123113,
+      "stop" : 1647922136585,
+      "duration" : 13472
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "70fe470f21750fd8",
+      "name" : "log",
+      "source" : "70fe470f21750fd8.txt",
+      "type" : "text/plain",
+      "size" : 1610
+    }, {
+      "uid" : "45cea33e9d9951f7",
+      "name" : "stderr",
+      "source" : "45cea33e9d9951f7.txt",
+      "type" : "text/plain",
+      "size" : 2043
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ {
+    "name" : "_xunit_setup_method_fixture_TestChuangjian5::0",
+    "time" : {
+      "start" : 1647922143415,
+      "stop" : 1647922143955,
+      "duration" : 540
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "数据源的创建-csv"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Test.TestCase"
+  }, {
+    "name" : "suite",
+    "value" : "test_007_datasourcemanage"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestChuangjian5"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-T0HOEE8"
+  }, {
+    "name" : "thread",
+    "value" : "2156-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Test.TestCase.test_007_datasourcemanage"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "dizhivalue",
+    "value" : "'172.168.30.13'"
+  }, {
+    "name" : "fegefuvalue",
+    "value" : "''"
+  }, {
+    "name" : "ipvalue",
+    "value" : "'22'"
+  }, {
+    "name" : "password",
+    "value" : "''"
+  }, {
+    "name" : "shujuvalue",
+    "value" : "''"
+  }, {
+    "name" : "status",
+    "value" : "'1'"
+  }, {
+    "name" : "username",
+    "value" : "''"
+  }, {
+    "name" : "wenjianvlaue",
+    "value" : "''"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a3b92589569c3e51.json",
+  "parameterValues" : [ "'172.168.30.13'", "''", "'22'", "''", "''", "'1'", "''", "''" ]
+}

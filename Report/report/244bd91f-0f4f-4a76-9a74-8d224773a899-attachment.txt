@@ -1,0 +1,17 @@
+2022-03-22 12:05:49,171 INFO [root] [Base.py (input:32] - 现在使用id定位,找到了元素--,来输入gaj
+2022-03-22 12:05:49,208 INFO [root] [Base.py (input:32] - 现在使用id定位,找到了元素--,来输入123456
+2022-03-22 12:05:49,245 INFO [root] [Base.py (click:21] - 现在使用xpath定位,找到了元素--,来点击click
+2022-03-22 12:05:50,535 INFO [root] [Base.py (click:21] - 现在使用xpath定位,找到了元素--,来点击click
+2022-03-22 12:05:52,001 INFO [root] [Base.py (click:21] - 现在使用xpath定位,找到了元素--,来点击click
+2022-03-22 12:05:52,082 INFO [root] [Base.py (click:21] - 现在使用xpath定位,找到了元素--,来点击click
+2022-03-22 12:05:52,357 INFO [root] [Base.py (click:21] - 现在使用xpath定位,找到了元素--,来点击click
+2022-03-22 12:05:52,546 INFO [root] [Base.py (click:21] - 现在使用xpath定位,找到了元素--,来点击click
+2022-03-22 12:05:53,100 INFO [root] [Base.py (input:32] - 现在使用xpath定位,找到了元素--,来输入
+2022-03-22 12:05:53,334 INFO [root] [Base.py (click:21] - 现在使用xpath定位,找到了元素--,来点击click
+2022-03-22 12:05:53,827 INFO [root] [Base.py (input:32] - 现在使用xpath定位,找到了元素--,来输入172.168.30.13
+2022-03-22 12:05:53,896 INFO [root] [Base.py (input:32] - 现在使用xpath定位,找到了元素--,来输入22
+2022-03-22 12:05:53,939 INFO [root] [Base.py (input:32] - 现在使用xpath定位,找到了元素--,来输入/root/wenlx/demo-data-20210719.xlsx
+2022-03-22 12:05:54,079 INFO [root] [Base.py (input:32] - 现在使用xpath定位,找到了元素--,来输入
+2022-03-22 12:05:54,106 INFO [root] [Base.py (input:32] - 现在使用xpath定位,找到了元素--,来输入
+2022-03-22 12:05:54,127 INFO [root] [Base.py (click:21] - 现在使用xpath定位,找到了元素--,来点击click
+2022-03-22 12:05:55,401 INFO [root] [Base.py (click:21] - 现在使用xpath定位,找到了元素--,来点击click

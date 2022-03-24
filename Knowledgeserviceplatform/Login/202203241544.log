@@ -1,0 +1,9 @@
+2022-03-24 15:44:43,742 INFO [root] [Base.py (input:31] - 现在使用id定位,找到了元素--,来输入gaj
+2022-03-24 15:44:43,779 INFO [root] [Base.py (input:31] - 现在使用id定位,找到了元素--,来输入123456
+2022-03-24 15:44:43,824 INFO [root] [Base.py (click:20] - 现在使用xpath定位,找到了元素--,来点击click
+2022-03-24 15:44:45,079 INFO [root] [Base.py (click:20] - 现在使用xpath定位,找到了元素--,来点击click
+2022-03-24 15:44:46,650 INFO [root] [Base.py (click:20] - 现在使用xpath定位,找到了元素--,来点击click
+2022-03-24 15:44:46,720 INFO [root] [Base.py (click:20] - 现在使用xpath定位,找到了元素--,来点击click
+2022-03-24 15:44:47,771 INFO [root] [Base.py (click:20] - 现在使用xpath定位,找到了元素--,来点击click
+2022-03-24 15:44:49,212 ERROR [root] [Base.py (input:37] - 查找元素失败,xpath://input[@id='name']
+2022-03-24 15:44:49,215 ERROR [root] [Base.py (click:25] - 查找元素失败,xpath://*[contains(text(),'确 定')]

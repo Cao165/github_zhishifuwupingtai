@@ -6,6 +6,7 @@ from Knowledgeserviceplatform.base.Base import Bases
 class BentichuangjianOperPage(Bases):
 
     def click_chuangjian(self):
+        #
         self.click(By.XPATH,"//body/div[@id='root']/div[1]/div[2]/div[1]/section[1]/div[1]/main[1]//div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]")
 
     def input_mingchen(self,value):
@@ -16,7 +17,7 @@ class BentichuangjianOperPage(Bases):
 
 class BentiguanliSecan(Bases):
 
-    def chuangjian(self,value):
+    def chuangjian(self, value ):
         time.sleep(1)
         BentichuangjianOperPage(self.driver).click_chuangjian()
         time.sleep(1)

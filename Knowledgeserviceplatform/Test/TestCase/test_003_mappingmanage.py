@@ -1,11 +1,11 @@
 import allure,pytest
 
-from Knowledgeserviceplatform.base.Base import Bases
-from Knowledgeserviceplatform.Common.parse import Jiexi
-from Knowledgeserviceplatform.Common.setup_teardown import SetupTearDown
-from Knowledgeserviceplatform.Test.PageObject.zhishigongcheng import GongchengSecan
-from Knowledgeserviceplatform.Test.PageObject.zhishiyingsechuanjian import ChuangjianSecan
-from Knowledgeserviceplatform.Test.PageObject.zhishiyinghsesousuo import GunxiyinghshePageOper,GunxiyinghsheSecan
+from github_zhishifuwupingtai.Knowledgeserviceplatform.base.Base import Bases
+from github_zhishifuwupingtai.Knowledgeserviceplatform.Common.parse import Jiexi
+from github_zhishifuwupingtai.Knowledgeserviceplatform.Common.setup_teardown import SetupTearDown
+from github_zhishifuwupingtai.Knowledgeserviceplatform.Test.PageObject.zhishigongcheng import GongchengSecan
+from github_zhishifuwupingtai.Knowledgeserviceplatform.Test.PageObject.zhishiyingsechuanjian import ChuangjianSecan
+from github_zhishifuwupingtai.Knowledgeserviceplatform.Test.PageObject.zhishiyinghsesousuo import GunxiyinghshePageOper,GunxiyinghsheSecan
 
 data1=Jiexi().getcsv("zhishiyingshe_csv.csv")
 data2=Jiexi().getcsv("zhishiyingshe_csv.csv")

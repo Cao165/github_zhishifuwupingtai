@@ -3,9 +3,9 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 
-from Knowledgeserviceplatform.Test.PageObject.denglu import LoginSecan
-from Knowledgeserviceplatform.Common.FireFoxProFile import FireFoxProFile
-from Knowledgeserviceplatform.Common.parse import Jiexi
+from github_zhishifuwupingtai.Knowledgeserviceplatform.Test.PageObject.denglu import LoginSecan
+from github_zhishifuwupingtai.Knowledgeserviceplatform.Common.FireFoxProFile import FireFoxProFile
+from github_zhishifuwupingtai.Knowledgeserviceplatform.Common.parse import Jiexi
 
 url=Jiexi().getyaml("Redmine.yml","websites","URL")
 username=Jiexi().getyaml("Redmine.yml","login","username")

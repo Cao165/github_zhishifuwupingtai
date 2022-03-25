@@ -1,7 +1,7 @@
 import time
 from selenium.webdriver.common.by import By
 
-from Knowledgeserviceplatform.base.Base import Bases
+from github_zhishifuwupingtai.Knowledgeserviceplatform.base.Base import Bases
 
 #数据源的创建
 class ChuangjianPageOper(Bases):

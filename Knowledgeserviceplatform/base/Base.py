@@ -2,7 +2,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.common.action_chains import ActionChains
 import time
 
-from Knowledgeserviceplatform.Common.Loggin import Log
+from github_zhishifuwupingtai.Knowledgeserviceplatform.Common.Loggin import Log
 
 #封装selenium API
 class Bases:

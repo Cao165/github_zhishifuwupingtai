@@ -1,6 +1,6 @@
 import time
 from selenium.webdriver.common.by import By
-from Knowledgeserviceplatform.base import Base
+from github_zhishifuwupingtai.Knowledgeserviceplatform.base import Base
 
 #页面元素对象层
 class LoginPageOper(Base.Bases):

@@ -2,7 +2,7 @@ import time
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 
-from Knowledgeserviceplatform.base.Base import Bases
+from github_zhishifuwupingtai.Knowledgeserviceplatform.base.Base import Bases
 
 class DiaoDuSousuodiaodu(Bases):
 

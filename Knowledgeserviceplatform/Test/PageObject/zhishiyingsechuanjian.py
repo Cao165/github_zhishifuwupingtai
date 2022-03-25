@@ -2,7 +2,7 @@ import time
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.action_chains import ActionChains
 
-from Knowledgeserviceplatform.base.Base import Bases
+from github_zhishifuwupingtai.Knowledgeserviceplatform.base.Base import Bases
 
 class ChuangjianPageOper(Bases):
     def click_chuangjian(self):

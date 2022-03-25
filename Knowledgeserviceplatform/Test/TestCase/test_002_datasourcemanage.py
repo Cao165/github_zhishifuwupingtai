@@ -1,13 +1,13 @@
 import pytest,allure
 
-from Knowledgeserviceplatform.base.Base import Bases
-from Knowledgeserviceplatform.Common.parse import Jiexi
-from Knowledgeserviceplatform.Common.setup_teardown import SetupTearDown
-from Knowledgeserviceplatform.Test.PageObject.zhishigongcheng import GongchengSecan
-from Knowledgeserviceplatform.Test.PageObject.shujuyuan_chuangjian import ChuangjianSecan
-from Knowledgeserviceplatform.Test.PageObject.shujuyuanshanchu import ShanchuSecan,ShanchuPageOper
-from Knowledgeserviceplatform.Test.PageObject.shujuyuansousuo import SuosouPageOper
-from Knowledgeserviceplatform.Test.PageObject.shujuyuanxiugai import XiugaiSecan
+from github_zhishifuwupingtai.Knowledgeserviceplatform.base.Base import Bases
+from github_zhishifuwupingtai.Knowledgeserviceplatform.Common.parse import Jiexi
+from github_zhishifuwupingtai.Knowledgeserviceplatform.Common.setup_teardown import SetupTearDown
+from github_zhishifuwupingtai.Knowledgeserviceplatform.Test.PageObject.zhishigongcheng import GongchengSecan
+from github_zhishifuwupingtai.Knowledgeserviceplatform.Test.PageObject.shujuyuan_chuangjian import ChuangjianSecan
+from github_zhishifuwupingtai.Knowledgeserviceplatform.Test.PageObject.shujuyuanshanchu import ShanchuSecan,ShanchuPageOper
+from github_zhishifuwupingtai.Knowledgeserviceplatform.Test.PageObject.shujuyuansousuo import SuosouPageOper
+from github_zhishifuwupingtai.Knowledgeserviceplatform.Test.PageObject.shujuyuanxiugai import XiugaiSecan
 
 data1=Jiexi().getcsv("mysql_csv.csv")
 data2=Jiexi().getcsv("sqlserver_csv.csv")

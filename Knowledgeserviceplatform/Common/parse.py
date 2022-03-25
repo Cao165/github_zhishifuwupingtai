@@ -25,11 +25,11 @@ class Jiexi():
 
 
     def getyaml(self,file,key,value):
-        gettest = self.parse_yml("E:\python-pycharm\pythonProject\Knowledgeserviceplatform\Data\\" + file, key, value)
+        gettest = self.parse_yml("E:\python-pycharm\pythonProject\github_zhishifuwupingtai\Knowledgeserviceplatform\Data\\" + file, key, value)
         return gettest
 
     def getcsv(self,file):
-        gettest = self.parse_csv("E:\python-pycharm\pythonProject\Knowledgeserviceplatform\Data\\" + file )
+        gettest = self.parse_csv("E:\python-pycharm\pythonProject\github_zhishifuwupingtai\Knowledgeserviceplatform\Data\\" + file )
         return gettest
 
 

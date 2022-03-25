@@ -1,7 +1,0 @@
-2022-03-24 15:47:37,112 INFO [root] [Base.py (input:31] - 现在使用id定位,找到了元素--,来输入gaj
-2022-03-24 15:47:37,153 INFO [root] [Base.py (input:31] - 现在使用id定位,找到了元素--,来输入123456
-2022-03-24 15:47:37,193 INFO [root] [Base.py (click:20] - 现在使用xpath定位,找到了元素--,来点击click
-2022-03-24 15:47:38,550 ERROR [root] [Base.py (click:25] - 查找元素失败,xpath://body/div[@id='root']/div[1]//button[1]
-2022-03-24 15:47:38,553 ERROR [root] [Base.py (click:25] - 查找元素失败,xpath://div[contains(text(),'知识工程')]
-2022-03-24 15:47:38,554 ERROR [root] [Base.py (click:25] - 查找元素失败,xpath://body/div[@id='root']/div[1]/div[2]/div[1]/section[1]/aside[1]/div[1]/div[2]/ul[1]/li[3]/span[1]
-2022-03-24 15:47:39,566 ERROR [root] [Base.py (click:25] - 查找元素失败,xpath://body/div[@id='root']/div[1]/div[2]/div[1]/section[1]/div[1]/main[1]//div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]

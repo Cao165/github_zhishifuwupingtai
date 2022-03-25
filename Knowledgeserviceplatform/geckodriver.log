@@ -38855,3 +38855,185 @@ JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_
 ###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
 
 1648093214004	geckodriver::marionette	ERROR	Failed to close browser connection: 拒绝访问。 (os error 5)
+1648112745486	geckodriver	INFO	Listening on 127.0.0.1:57662
+1648112748562	mozrunner::runner	INFO	Running command: "F:\\下载\\火狐\\firefox.exe" "--marionette" "--remote-debugging-port" "57663" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofilew1yGAn"
+1648112748960	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofilew1yGAn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57663/devtools/browser/d02d46c8-d000-46b2-b5c7-2190383960a5
+1648112750838	Marionette	INFO	Listening on port 57668
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1648112751252	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://172.168.30.17:8018/umi.62ff8885.js, line 1749: unreachable code after return statement
+JavaScript warning: http://172.168.30.17:8018/umi.62ff8885.js, line 1891: unreachable code after return statement
+JavaScript warning: http://172.168.30.17:8018/umi.62ff8885.js, line 1892: unreachable code after return statement
+JavaScript warning: http://172.168.30.17:8018/umi.62ff8885.js, line 1899: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://172.168.30.17:8100"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://172.168.30.17:8100"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://172.168.30.17:8018/umi.62ff8885.js, line 1749: unreachable code after return statement
+JavaScript warning: http://172.168.30.17:8018/umi.62ff8885.js, line 1891: unreachable code after return statement
+JavaScript warning: http://172.168.30.17:8018/umi.62ff8885.js, line 1892: unreachable code after return statement
+JavaScript warning: http://172.168.30.17:8018/umi.62ff8885.js, line 1899: unreachable code after return statement
+JavaScript error: http://172.168.30.17:8018/umi.62ff8885.js, line 8622: TypeError: ce is null
+1648112763524	Marionette	INFO	Stopped listening on port 57668
+1648112764166	geckodriver	INFO	Listening on 127.0.0.1:57725
+1648112767249	mozrunner::runner	INFO	Running command: "F:\\下载\\火狐\\firefox.exe" "--marionette" "--remote-debugging-port" "57726" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileYKlxya"
+1648112767506	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileYKlxya\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57726/devtools/browser/49d7b134-214e-4b8f-bea1-cf2c8bfb9a97
+1648112769150	Marionette	INFO	Listening on port 57739
+1648112769324	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript warning: http://172.168.30.17:8018/umi.62ff8885.js, line 1749: unreachable code after return statement
+JavaScript warning: http://172.168.30.17:8018/umi.62ff8885.js, line 1891: unreachable code after return statement
+JavaScript warning: http://172.168.30.17:8018/umi.62ff8885.js, line 1892: unreachable code after return statement
+JavaScript warning: http://172.168.30.17:8018/umi.62ff8885.js, line 1899: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://172.168.30.17:8100"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://172.168.30.17:8100"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://172.168.30.17:8018/umi.62ff8885.js, line 1749: unreachable code after return statement
+JavaScript warning: http://172.168.30.17:8018/umi.62ff8885.js, line 1891: unreachable code after return statement
+JavaScript warning: http://172.168.30.17:8018/umi.62ff8885.js, line 1892: unreachable code after return statement
+JavaScript warning: http://172.168.30.17:8018/umi.62ff8885.js, line 1899: unreachable code after return statement
+1648112781550	Marionette	INFO	Stopped listening on port 57739
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1648112782127	geckodriver	INFO	Listening on 127.0.0.1:57806
+1648112785220	mozrunner::runner	INFO	Running command: "F:\\下载\\火狐\\firefox.exe" "--marionette" "--remote-debugging-port" "57807" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofilebsTD8A"
+1648112785489	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofilebsTD8A\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57807/devtools/browser/b8c16c35-0b67-419b-a352-18e9b0f60106
+1648112787180	Marionette	INFO	Listening on port 57813
+1648112787277	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://172.168.30.17:8018/umi.62ff8885.js, line 1749: unreachable code after return statement
+JavaScript warning: http://172.168.30.17:8018/umi.62ff8885.js, line 1891: unreachable code after return statement
+JavaScript warning: http://172.168.30.17:8018/umi.62ff8885.js, line 1892: unreachable code after return statement
+JavaScript warning: http://172.168.30.17:8018/umi.62ff8885.js, line 1899: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://172.168.30.17:8100"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://172.168.30.17:8100"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://172.168.30.17:8018/umi.62ff8885.js, line 1749: unreachable code after return statement
+JavaScript warning: http://172.168.30.17:8018/umi.62ff8885.js, line 1891: unreachable code after return statement
+JavaScript warning: http://172.168.30.17:8018/umi.62ff8885.js, line 1892: unreachable code after return statement
+JavaScript warning: http://172.168.30.17:8018/umi.62ff8885.js, line 1899: unreachable code after return statement
+1648112862565	Marionette	INFO	Stopped listening on port 57813
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1648112865147	geckodriver	INFO	Listening on 127.0.0.1:57971
+1648112868211	mozrunner::runner	INFO	Running command: "F:\\下载\\火狐\\firefox.exe" "--marionette" "--remote-debugging-port" "57972" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile4YEkNy"
+1648112868471	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile4YEkNy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57972/devtools/browser/377fbdfb-74ad-460b-822d-a859e8064a2c
+1648112870200	Marionette	INFO	Listening on port 57983
+1648112870282	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript warning: http://172.168.30.17:8018/umi.62ff8885.js, line 1749: unreachable code after return statement
+JavaScript warning: http://172.168.30.17:8018/umi.62ff8885.js, line 1891: unreachable code after return statement
+JavaScript warning: http://172.168.30.17:8018/umi.62ff8885.js, line 1892: unreachable code after return statement
+JavaScript warning: http://172.168.30.17:8018/umi.62ff8885.js, line 1899: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://172.168.30.17:8100"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://172.168.30.17:8100"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://172.168.30.17:8018/umi.62ff8885.js, line 1749: unreachable code after return statement
+JavaScript warning: http://172.168.30.17:8018/umi.62ff8885.js, line 1891: unreachable code after return statement
+JavaScript warning: http://172.168.30.17:8018/umi.62ff8885.js, line 1892: unreachable code after return statement
+JavaScript warning: http://172.168.30.17:8018/umi.62ff8885.js, line 1899: unreachable code after return statement
+1648112995055	geckodriver	INFO	Listening on 127.0.0.1:58161
+1648112998124	mozrunner::runner	INFO	Running command: "F:\\下载\\火狐\\firefox.exe" "--marionette" "--remote-debugging-port" "58162" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile4cdJMF"
+1648112998418	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile4cdJMF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58162/devtools/browser/a7155423-3045-4c62-a29e-f97387961e58
+1648113000267	Marionette	INFO	Listening on port 58173
+1648113000316	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://172.168.30.17:8018/umi.62ff8885.js, line 1749: unreachable code after return statement
+JavaScript warning: http://172.168.30.17:8018/umi.62ff8885.js, line 1891: unreachable code after return statement
+JavaScript warning: http://172.168.30.17:8018/umi.62ff8885.js, line 1892: unreachable code after return statement
+JavaScript warning: http://172.168.30.17:8018/umi.62ff8885.js, line 1899: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://172.168.30.17:8100"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://172.168.30.17:8100"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://172.168.30.17:8018/umi.62ff8885.js, line 1749: unreachable code after return statement
+JavaScript warning: http://172.168.30.17:8018/umi.62ff8885.js, line 1891: unreachable code after return statement
+JavaScript warning: http://172.168.30.17:8018/umi.62ff8885.js, line 1892: unreachable code after return statement
+JavaScript warning: http://172.168.30.17:8018/umi.62ff8885.js, line 1899: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+1648113016898	Marionette	INFO	Stopped listening on port 58173
+1648113017456	geckodriver	INFO	Listening on 127.0.0.1:58256
+1648113020542	mozrunner::runner	INFO	Running command: "F:\\下载\\火狐\\firefox.exe" "--marionette" "--remote-debugging-port" "58257" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileOJNF6n"
+1648113020801	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileOJNF6n\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58257/devtools/browser/cabed53d-9bc6-4474-9e14-30663619ae08
+1648113022589	Marionette	INFO	Listening on port 58264
+1648113022713	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript warning: http://172.168.30.17:8018/umi.62ff8885.js, line 1749: unreachable code after return statement
+JavaScript warning: http://172.168.30.17:8018/umi.62ff8885.js, line 1891: unreachable code after return statement
+JavaScript warning: http://172.168.30.17:8018/umi.62ff8885.js, line 1892: unreachable code after return statement
+JavaScript warning: http://172.168.30.17:8018/umi.62ff8885.js, line 1899: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://172.168.30.17:8100"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://172.168.30.17:8100"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://172.168.30.17:8018/umi.62ff8885.js, line 1749: unreachable code after return statement
+JavaScript warning: http://172.168.30.17:8018/umi.62ff8885.js, line 1891: unreachable code after return statement
+JavaScript warning: http://172.168.30.17:8018/umi.62ff8885.js, line 1892: unreachable code after return statement
+JavaScript warning: http://172.168.30.17:8018/umi.62ff8885.js, line 1899: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+1648113039560	Marionette	INFO	Stopped listening on port 58264
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1648113040132	geckodriver	INFO	Listening on 127.0.0.1:58329
+1648113043226	mozrunner::runner	INFO	Running command: "F:\\下载\\火狐\\firefox.exe" "--marionette" "--remote-debugging-port" "58330" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofilesvzwAR"
+1648113043491	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofilesvzwAR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58330/devtools/browser/b41490b8-3acf-4970-83be-6735f13ba0cc
+1648113045259	Marionette	INFO	Listening on port 58340
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1648113045290	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://172.168.30.17:8018/umi.62ff8885.js, line 1749: unreachable code after return statement
+JavaScript warning: http://172.168.30.17:8018/umi.62ff8885.js, line 1891: unreachable code after return statement
+JavaScript warning: http://172.168.30.17:8018/umi.62ff8885.js, line 1892: unreachable code after return statement
+JavaScript warning: http://172.168.30.17:8018/umi.62ff8885.js, line 1899: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://172.168.30.17:8100"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://172.168.30.17:8100"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://172.168.30.17:8018/umi.62ff8885.js, line 1749: unreachable code after return statement
+JavaScript warning: http://172.168.30.17:8018/umi.62ff8885.js, line 1891: unreachable code after return statement
+JavaScript warning: http://172.168.30.17:8018/umi.62ff8885.js, line 1892: unreachable code after return statement
+JavaScript warning: http://172.168.30.17:8018/umi.62ff8885.js, line 1899: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+1648113061982	Marionette	INFO	Stopped listening on port 58340
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1648113063625	geckodriver	INFO	Listening on 127.0.0.1:58402
+1648113066710	mozrunner::runner	INFO	Running command: "F:\\下载\\火狐\\firefox.exe" "--marionette" "--remote-debugging-port" "58403" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile68jNKb"
+1648113067030	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile68jNKb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58403/devtools/browser/72f35dae-ec4a-4054-b0ad-eb55dc17a0c3
+1648113069111	Marionette	INFO	Listening on port 58410
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1648113069379	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://172.168.30.17:8018/umi.62ff8885.js, line 1749: unreachable code after return statement
+JavaScript warning: http://172.168.30.17:8018/umi.62ff8885.js, line 1891: unreachable code after return statement
+JavaScript warning: http://172.168.30.17:8018/umi.62ff8885.js, line 1892: unreachable code after return statement
+JavaScript warning: http://172.168.30.17:8018/umi.62ff8885.js, line 1899: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://172.168.30.17:8100"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://172.168.30.17:8100"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://172.168.30.17:8018/umi.62ff8885.js, line 1749: unreachable code after return statement
+JavaScript warning: http://172.168.30.17:8018/umi.62ff8885.js, line 1891: unreachable code after return statement
+JavaScript warning: http://172.168.30.17:8018/umi.62ff8885.js, line 1892: unreachable code after return statement
+JavaScript warning: http://172.168.30.17:8018/umi.62ff8885.js, line 1899: unreachable code after return statement
+JavaScript error: http://172.168.30.17:8018/umi.62ff8885.js, line 8622: TypeError: ce is null
+1648113086584	Marionette	INFO	Stopped listening on port 58410
+1648113089149	geckodriver	INFO	Listening on 127.0.0.1:58469
+1648113092225	mozrunner::runner	INFO	Running command: "F:\\下载\\火狐\\firefox.exe" "--marionette" "--remote-debugging-port" "58470" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileJjIg2R"
+1648170245324	geckodriver	INFO	Listening on 127.0.0.1:65236
